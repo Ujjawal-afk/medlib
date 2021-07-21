@@ -1,0 +1,2 @@
+verb = input("Lets input a value: ")
+print(f"lets input a {verb}")
